@@ -261,6 +261,7 @@ Based on identified patterns:
 ---
 
 ## **Repository Structure**
+
 project/
 │
 ├── data/
