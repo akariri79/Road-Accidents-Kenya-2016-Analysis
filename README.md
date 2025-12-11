@@ -6,8 +6,8 @@ This is a comprehensive data analysis on road acccidents in Kenya from a Kaggle 
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-teal.svg)  
 ![Folium](https://img.shields.io/badge/Library-Folium-green.svg)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-[![Issues](https://img.shields.io/github/issues/yourusername/accident-analysis.svg)](https://github.com/yourusername/accident-analysis/issues)  
-[![Stars](https://img.shields.io/github/stars/yourusername/accident-analysis.svg)](https://github.com/yourusername/accident-analysis/stargazers)
+[![Issues](https://img.shields.io/github/issues/akariri79/accident-analysis.svg)](https://github.com/akariri79/accident-analysis/issues)  
+[![Stars](https://img.shields.io/github/stars/akariri79/accident-analysis.svg)](https://github.com/akariri79/accident-analysis/stargazers)
 
 ---
 
