@@ -202,6 +202,8 @@ The notebook generates multiple figures, including:
 
 - Choropleth maps using GeoJSON and folium
 
+- A Power BI dashboard highlighting the key visuals and metrics from the analysis
+
 All figures are intended for export into dashboards or presentations.
 
 
