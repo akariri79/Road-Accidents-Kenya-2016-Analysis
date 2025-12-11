@@ -1,0 +1,111 @@
+﻿Code,Description
+Driver,
+1,Fatigued
+2,Asleep
+3,Ill
+4,Under the influence of drink or a drug
+5,Physically defective
+6,Inexperienced with the type of vehicle in use at the time
+7,Proceeding at excessive speed having regard to conditions
+8,Failing to keep to near side or to the proper traffic lane
+9,Cutting in
+10,Overtaking improperly
+11,Swerving
+12,Skidding (give cause of skid)
+13,Forcing way through persons boarding or alighting from omnibus
+14,Failing to stop to afford free passage to pedestrians at pedestrian crossing place
+15,Turning in road negligently
+16,Reversing negligently (other than parking area)
+17,Failing to comply with traffic sign or signal
+18,Failing to signal or giving indistinct or incorrect signal
+19,Puling out from near side or from one traffic lane (not from parking area) to another without due care
+20,Inattentive or attention diverted
+21,"Hampered by passenger, animal or luggage in or on vehicle"
+22,Turning right without due care
+23,Turning left without due care
+24,Driver negligently opening door of a vehicle
+25,Crossing without due care at road junctions
+26,Losing control (particulars to be specified)
+27,Dazzled by light of another vehicle
+28,Stopping suddenly
+29,"Misjudging clearance, distance or speed (vehicle or objects"
+30,Other apparent errors of judgement or negligence(specify)
+30a,Reversing from angle parking space negligently
+30b,Entering parking space (angle or flush) negligently
+30c,Leaving flush-parking space negligently
+Cyclist,
+31,Fatigued
+32,Ill
+33,Under the influence of drink or a drug
+34,Physically defective
+35,Inexperienced with the type of vehicle in use at the time
+36,Proceeding at excessive speed having regard to conditions
+37,Failing to keep to near side or to the proper traffic lane
+38,Cutting in
+39,Overtaking improperly
+40,Swerving
+41,Skidding (give cause of skid)
+42,Forcing way through persons boarding or alighting from omnibus
+43,Failing to stop to afford free passage to pedestrians at pedestrian crossing place
+44,Turning in road negligently
+45,Failing to comply with traffic sign or signal
+46,Failing to signal or giving indistinct or incorrect signal
+47,Pulling out from near side or from one traffic lane (not from parking area) to another without due care
+48,Inattentive or attention diverted
+49,"Hampered by passenger, animal or luggage in or on vehicle"
+50,Turning right without due care
+51,Turning left without due care
+52,Driver negligently opening door of a vehicle
+53,Crossing without due care at road junctions
+54,Losing control (particulars to be specified)
+55,Dazzled by light of another vehicle
+56,Stopping suddenly
+57,"Misjudging clearance, distance or speed (vehicle or objects"
+58,Other apparent errors of judgement or negligence(specify)
+Pedestrian,
+59,Heedless of traffic-crossing road masked by a stationary vehicle
+60,Heedless of traffic-crossing road not masked by stationary vehicle
+61,Heedless of traffic-walking or standing in road
+62,Heedless of traffic-playing in road
+63,"Heedless of traffic-stepping, walking , running off footpath or verge of road"
+64,Slipping or falling
+65,Physical defects or sudden illness
+66,Under the influence of drink or a drug
+67,Holding on to vehicle
+68,"Error of judgement or negligence, other than the above(specify)"
+Passengers,
+69,Boarding or alighting from vehicle without due care
+70,Falling when inside or falling from vehicle
+71,Other negligence from part of the passenger
+72,Stealing ride
+73,Negligence on part of conductor or goods-vehicle attendant
+Animal,
+74,Dog in carriageway
+75,"Other animal in carriageway, including bolting horse"
+76,Stationary vehicle dangerously placed
+77,Other obstruction(specify)
+Vehicle Defect,
+78,Mechanical defect or failure - brakes
+79,Mechanical defect or failure - tyres or wheels
+80,Mechanical defect or failure - steering
+81,Mechanical defect or failure – other cause
+82,No front light
+83,Inadequate front light
+84,No rear light
+85,Inadequate rear light
+86,Unattended vehicle running away
+87,"Driver’s view obstructed, e.g., by equipment, load or obscured windscreen"
+88,"Vehicle overloaded, shifted or defective load"
+89,Any other feature of vehicle or equipment which contributed to the accident (specify below)
+Road Defect,
+90,Road surface slippery
+91,Excessive dust obscuring driver’s view
+92,Road surface in need of repair (state defect)
+93,"Other road condition, view obstructed, etc. (specify)"
+Weather,
+94,Fog or mist
+95,Torrential rain
+96,Glaring sun
+Other Cause,
+97,Other causes(specify)
+98,Cause not traced
