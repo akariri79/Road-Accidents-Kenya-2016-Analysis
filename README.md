@@ -277,7 +277,8 @@ project/
 ├── outputs/
 │ ├── accidents_choropleth.html
 │ ├── figures/
-│ └── processed/
+│ ├── kenyan-road-accidents-dashboard.pbix
+| └── processed/
 │
 ├── README.md
 └── LICENSE
